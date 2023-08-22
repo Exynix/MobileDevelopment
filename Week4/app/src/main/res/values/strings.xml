@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week4Lab01</string>
+    <string name= "sample_textView">sampleTest</string>
+    <string name="counterButtonLabel">Press me!</string>
+</resources>
