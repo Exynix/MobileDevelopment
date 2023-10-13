@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="main_activity_title"> Taller 2. Permisos, Galería y Mapas </string>
 </resources>
