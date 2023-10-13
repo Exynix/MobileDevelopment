@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <!-- Main activity -->
     <string name="main_activity_title"> Taller 2. Permisos, Galería y Mapas </string>
+
+    <!-- Media activity -->
+    <string name="video_switch">Video</string>
+    <string name="take_photo_button">Take photo</string>
+    <string name="pick_from_gallery_button">Pick from gallery</string>
+
+    <!-- Maps activity -->
+    <string name="position_switch">Move the map with user\'s position?</string>
+    <string name="address_input_field">Address</string>
 </resources>
